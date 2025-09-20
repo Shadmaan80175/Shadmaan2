@@ -1,9 +1,10 @@
 # FUTURE_DS_03
-![Capture py4](https://github.com/user-attachments/assets/688bd8c9-57b7-4bd1-850b-93c58bc70276)
-![Capture py3](https://github.com/user-attachments/assets/0c6aa08f-a81b-41d1-aad2-462f87bcd352)
-![Capture py2](https://github.com/user-attachments/assets/31ce3a38-46a1-42ca-ba4d-9bd414a55d7f)
-![Capture py1](https://github.com/user-attachments/assets/206323ea-3067-472b-aafc-f9d2fdded197)
 ![Capture py](https://github.com/user-attachments/assets/02908b72-1621-4e20-b20c-7d5782f2b16e)
+![Capture py1](https://github.com/user-attachments/assets/fc4c487e-a906-4967-a024-d1f9d2400ce6)
+![Capture py2](https://github.com/user-attachments/assets/1b1fe9b4-9518-4d66-b8fc-6cca6ff39725)
+![Capture py3](https://github.com/user-attachments/assets/0d9eb814-e095-4253-8106-d4be8775412c)
+![Capture py4](https://github.com/user-attachments/assets/2982e57c-cc47-4abc-863d-1d70816ad0d1)
+
 Project Overview
 This Python script is designed to perform a descriptive analysis of a simulated college event feedback dataset. The program covers the entire data science pipeline, from creating a sample dataset to data cleaning, analysis, and visualization. The final output provides key insights, such as the best-rated event, the most active department, and the most liked features of the events.
 
